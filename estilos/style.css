@@ -1,0 +1,51 @@
+body{
+
+    color: white;
+    background-image: url(../imagens/fundo-madeira.jpg);
+}
+
+body > div{
+
+    display: inline-block;
+
+}
+
+
+
+div.celular{
+
+    margin: auto;
+    width: 310px;
+    height: 625px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    background-image:url(../imagens/frame-iphone.png) ;
+    background-repeat: no-repeat;
+    
+
+}
+div.iframe{
+
+
+
+}
+
+div.apps{
+
+
+
+
+}
+
+div img{
+
+    display: block;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin-bottom: 30px;
+
+}
+
