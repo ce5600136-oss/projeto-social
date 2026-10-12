@@ -26,11 +26,7 @@ div.celular{
     
 
 }
-div.iframe{
 
-
-
-}
 
 div.apps{
 
@@ -49,3 +45,9 @@ div img{
 
 }
 
+#tela{
+
+    height: 400px;
+    width: 267px;
+
+}
